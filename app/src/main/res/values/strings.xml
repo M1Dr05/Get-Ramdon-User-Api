@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PeopleRootstack</string>
+    <string name="home">HOME</string>
+    <string name="explore">EXPLORE</string>
+    <string name="my_queues">MY QUEUES</string>
+    <string name="profile">PROFILE</string>
+    <string name="search_persons">Search persons</string>
+    <string name="people_close_to_you">People close to you</string>
+    <string name="loading">Loading</string>
+</resources>
